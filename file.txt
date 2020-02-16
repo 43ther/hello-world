@@ -2,3 +2,4 @@ new file
 new line
 another line
 yet another line
+one more
